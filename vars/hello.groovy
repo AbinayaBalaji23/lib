@@ -1,3 +1,3 @@
-def hello (string name) {
+def hello (String name) {
 sh "echo welcome ${name}"
 }
